@@ -91,7 +91,7 @@ Le site intègre :
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60" alt="Bootstrap">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60" height="60" alt="JavaScript">
-  <img src="https://www.vectorlogo.zone/logos/webrtc/webrtc-icon.svg" width="60" height="60" alt="WebRTC">
+  <img src="https://habrastorage.org/webt/sj/cp/ns/sjcpnsa3rhy4uystxuguhu162pq.png" width="60" height="60" alt="WebRTC">
   <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="60" height="60" alt="jQuery">
 </div>
 
