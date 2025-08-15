@@ -117,8 +117,8 @@ Le site intègre :
 ### Étapes d’installation
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/votrecompte/ejob.git
-   cd ejob
+   git clone https://github.com/Alidou26/PFE_Ejob.git
+   cd PFE_Ejob
    ```
 ### Configurer la base de données
 1. Importer `ejob.sql` dans **phpMyAdmin**.  
